@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/working_papers2/static/css/main.537e8008.css",
-    "main.js": "/working_papers2/static/js/main.c12fe549.js",
+    "main.js": "/working_papers2/static/js/main.d472e35f.js",
     "static/js/787.e9d251b3.chunk.js": "/working_papers2/static/js/787.e9d251b3.chunk.js",
     "index.html": "/working_papers2/index.html",
     "main.537e8008.css.map": "/working_papers2/static/css/main.537e8008.css.map",
-    "main.c12fe549.js.map": "/working_papers2/static/js/main.c12fe549.js.map",
+    "main.d472e35f.js.map": "/working_papers2/static/js/main.d472e35f.js.map",
     "787.e9d251b3.chunk.js.map": "/working_papers2/static/js/787.e9d251b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.537e8008.css",
-    "static/js/main.c12fe549.js"
+    "static/js/main.d472e35f.js"
   ]
 }
