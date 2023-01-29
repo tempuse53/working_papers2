@@ -34,8 +34,7 @@ function FlipCard({ article }) {
             </div>
           </div>
           <div className="card back">
-{/*            <div className="card-body d-flex">
-*/}         <div className="card-body">
+            <div className="card-body">
               <p className="card-text fs-5 fw-bold">{article.title}</p>
               
               <div className="card backtext">

@@ -1,23 +1,3 @@
-// import React from "react";
-// import { BrowserRouter, Route, Link } from "react-router-dom";
-
-// function Navbar() {
-//   return (
-//     <nav>
-//       <ul>
-//         <li>
-//           <Link to="/">Home</Link>
-//         </li>
-//         <li>
-//           <Link to="/App">Articles</Link>
-//         </li>
-//       </ul>
-//     </nav>
-//   );
-// }
-
-// export default Navbar;
-
 
 import { useRef } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
@@ -33,9 +13,9 @@ function Navbar() {
   return (
     <header>
       <h3 className="card-text fs-2 fw-bold" >Centralized Working Papers</h3>
-      <nav ref={navRef}>
-        <a href="/">Working Papers</a>
-        <a href="/About">About</a>
+       <nav>      
+        <a href="https://tempuse53.github.io/working_papers2/">Working Papers</a>
+        <a href="https://tempuse53.github.io/working_papers2/#/About/">About</a>
         <button
           className="nav-btn nav-close-btn"
           onClick={showNavbar}>
@@ -50,3 +30,4 @@ function Navbar() {
 }
 
 export default Navbar;
+

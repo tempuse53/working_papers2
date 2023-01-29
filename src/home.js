@@ -20,7 +20,7 @@ function Home() {
                 <p className="card-text fs-5">The collecting of the working papers relies on straightforward website scraping from the respective institutions.</p> 
                 <p className="card-text fs-5">The covered European central banks are: </p> 
                  <ul>
-                  <li className="card-text fs-5">EuropeanCentralBank (Euro)</li>
+                  <li className="card-text fs-5">European Central Bank (Euro)</li>
                   <li className="card-text fs-5">Banque de France (FR)</li>
                   <li className="card-text fs-5">Bundesbank (DE)</li>
                   <li className="card-text fs-5">Banca d'Italia (IT)</li>
@@ -38,7 +38,7 @@ function Home() {
                  <ul>
                   <li className="card-text fs-5">Bank of International Settlements (BIS)</li>
                 </ul> 
-                <p className="card-text fs-5">The Bank of England, Bank of Switzerland, IMF and De Nederlandsche Bank (NL) are currently not included.</p> 
+                <p className="card-text fs-5">The Bank of England (EN), Bank of Switzerland (CH), IMF and De Nederlandsche Bank (NL) are currently not included.</p> 
             <br></br>
 
             <h2 className="card-text fw-bold">Contact</h2>
